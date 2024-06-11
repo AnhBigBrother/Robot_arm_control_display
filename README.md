@@ -1,0 +1,2 @@
+- Control 3 degrees of freedom robot by joystick.  
+- Connect and control via windowsform interface.
